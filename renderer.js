@@ -565,7 +565,7 @@ function renderStep(){
 		ctx.globalAlpha = 1;
 	};
 	if (!(document.getElementById('ftbCode').value=='nomark')){
-		ctx.globalAlpha = 0.5;
+		ctx.globalAlpha = 0.80;
 		ctx.globalAlpha = 1;
 	}
 };
